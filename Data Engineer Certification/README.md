@@ -1,41 +1,6 @@
 # The Google Cloud Developer's Cheat Sheet
 Every product in the Google Cloud family described in <=4 words (with liberal use of hyphens and slashes :smirk:)\
 by the Google Developer Relations Team\
-<a target="_blank" href="DarkPoster-medres.png"><img border="1" alt="Google Cloud Developer's Cheat Sheet Poster Image" src="DarkPoster-lowres.png"></a>\
-White background:
-[Poster PDF](Poster.pdf)
-|
-[Brochure PDF](Brochure.pdf)
-|
-[High-resolution PNG](Poster-hires.png)
-|
-[Medium-res PNG](Poster-medres.png)
-|
-[Low-res PNG](Poster-lowres.png)\
-Dark background:
-[Poster PDF](DarkPoster.pdf)
-|
-[Brochure PDF](DarkBrochure.pdf)
-|
-[High-resolution PNG](DarkPoster-hires.png)
-|
-[Medium-res PNG](DarkPoster-medres.png)
-|
-[Low-res PNG](DarkPoster-lowres.png)
-
-Desktop Wallpapers: [16:9 (iMac, etc.)](Wallpaper-16-9.png) | [16:10 (Macbook Pro)](Wallpaper-16-10.png) | [4:3 (Older computers)](Wallpaper-4-3.png) | [3:2 (Pixelbook)](Wallpaper-3-2.png)
-
-Text descriptions with links are below
-
-Suggestions for better descriptions? Missing products? Pull requests are welcome on README.md (this file).
-
-Feedback? <img width="40" valign="middle" src="https://storage.googleapis.com/gregsramblings-downloads/Twitter_Logo_Blue.png">[@gregsramblings](https://twitter.com/gregsramblings)
-
-**Note:** This list only includes products that are publicly available. There are several products in pre-release/private-alpha that will not be included until they go public beta or GA.
-
-Fun flashback - [here's the list of products on the day I joined Google in 2014](https://web.archive.org/web/20140702161745/https://cloud.google.com/products/)
-
-Many of these products have a [free tier](https://cloud.google.com/free/). There is also a [free trial](https://console.cloud.google.com/freetrial) that will enable you try almost everything.
 
 ----------------------------
 # All Products
