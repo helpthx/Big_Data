@@ -54,6 +54,12 @@ Hadoop, Hive, HBase, ZooKeeper, Oozie, Sorl, Kafka, Pig, MapReduce, YARN, Spark,
 
 - #### [Intro to Hadoop and MapReduce]( https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617) 
 
+## Scala
+- #### [Scala Programming for Data Science](https://cognitiveclass.ai/learn/scala) 
+	- [Scala 101](https://courses.cognitiveclass.ai/courses/course-v1:BigDataUniversity+SC0101EN+2016/info) [RESULTS](https://github.com/helpthx/Big_Data/blob/master/Scala%20Programming%20for%20Data%20Science/Scala%20101/Module%201:%20Introduction/Big%20Data%20University%20SC0101EN%20Certificate%20_%20Cognitive%20Class.pdf) :heavy_check_mark:
+	- [Spark Overview for Scala Analytics](https://courses.cognitiveclass.ai/courses/course-v1:BigDataUniversity+SC0103EN+2016/info) [RESULTS](https://github.com/helpthx/Big_Data/blob/master/Scala%20Programming%20for%20Data%20Science/Spark%20Overview%20for%20Scala%20Analytics/Big%20Data%20University%20SC0103EN%20Certificate%20_%20Cognitive%20Class.pdf) :heavy_check_mark:
+	- [Data Science for Scala](https://cognitiveclass.ai/courses/data-science-scala)
+
 ## Data Storytelling
 - Edx https://www.edx.org/course/analytics-storytelling-impact-1
 
